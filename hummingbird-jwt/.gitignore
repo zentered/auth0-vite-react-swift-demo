@@ -1,0 +1,4 @@
+.env
+*.resolved
+.build
+.swiftpm
